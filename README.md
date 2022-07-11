@@ -2,7 +2,7 @@
 
 ## ⛰ Coding Journey
 
-🐍 I am a self-taught Python Programmer, with main focus on Back-End Software Engineering. Over lockdown I learnt Pyhton, SQL, HTML & CSS, Flask, and much more. I'm really enjoying the whole process and can't wait to see where my coding journey takes me. 
+🐍 I am a self-taught Python Programmer, with main focus on Back-End Software Engineering. Over lockdown I learnt Pyhton, SQL, HTML & CSS, Flask, Computer Architecture, and various Modules. I'm really enjoying the whole process and can't wait to see where my coding journey takes me. 
 
 🏰 I currently work as a tennis coach, personal trainer, and musician, but am excited and ready to take the plunge into a completely new career. Being self-taught, I'm aware there's a lot I don't know, but at the same time I am confident in my ability to learn new skills and adapt to new environments.
 
